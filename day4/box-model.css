@@ -1,0 +1,12 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+.text1{
+    background: yellowgreen;
+    height: 40px;
+}
+.text2{
+    background: violet;
+    height: 40px;
+}

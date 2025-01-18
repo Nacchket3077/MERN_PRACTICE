@@ -1,0 +1,13 @@
+.h1{
+    color: greenyellow;
+}
+.h2{
+    color: blueviolet;
+    background: yellowgreen;
+}
+#lorem-text{
+    color: cadetblue;
+}
+.big-text{
+    font-size: 24px;
+}
